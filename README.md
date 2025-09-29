@@ -49,6 +49,8 @@ mini-produtos/
 
 ## 🖥️ Protótipos no Figma
 👉 Cole aqui o link do seu Figma  
+
+https://www.figma.com/design/cIhKDmuBWDSBPsJc1H6LDg/Untitled?node-id=0-1&p=f&t=8H0r9CjAAwSQXkTG-0
 - Prints estão disponíveis em `/docs/prints/`
 
 ---
